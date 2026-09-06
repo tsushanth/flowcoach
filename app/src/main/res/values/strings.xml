@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FlowCoach</string>
+    <string name="notification_channel_name">Hydration Reminders</string>
+    <string name="notification_channel_description">Reminders to drink water and stay hydrated</string>
+    <string name="reminder_title">Time to hydrate 💧</string>
+    <string name="reminder_text">You are behind on your water goal today. Take a sip!</string>
+</resources>
